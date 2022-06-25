@@ -12,7 +12,9 @@ namespace SynGitHub
             customer.address = "Dubai-UAE";
             customer.DOB = new DateTime(1994, 01, 01);
             string fullname = customer.FullName();
-            Console.WriteLine(fullname);
+            Console.WriteLine("the full name is : " + fullname);
+            
+
         }
     }
 }
