@@ -1,0 +1,16 @@
+C:\Projects\SynGitHub\SynGitHub\bin\Debug\net5.0\SynGitHub.exe
+C:\Projects\SynGitHub\SynGitHub\bin\Debug\net5.0\SynGitHub.deps.json
+C:\Projects\SynGitHub\SynGitHub\bin\Debug\net5.0\SynGitHub.runtimeconfig.json
+C:\Projects\SynGitHub\SynGitHub\bin\Debug\net5.0\SynGitHub.runtimeconfig.dev.json
+C:\Projects\SynGitHub\SynGitHub\bin\Debug\net5.0\SynGitHub.dll
+C:\Projects\SynGitHub\SynGitHub\bin\Debug\net5.0\SynGitHub.pdb
+C:\Projects\SynGitHub\SynGitHub\obj\Debug\net5.0\SynGitHub.csproj.AssemblyReference.cache
+C:\Projects\SynGitHub\SynGitHub\obj\Debug\net5.0\SynGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SynGitHub\SynGitHub\obj\Debug\net5.0\SynGitHub.AssemblyInfoInputs.cache
+C:\Projects\SynGitHub\SynGitHub\obj\Debug\net5.0\SynGitHub.AssemblyInfo.cs
+C:\Projects\SynGitHub\SynGitHub\obj\Debug\net5.0\SynGitHub.csproj.CoreCompileInputs.cache
+C:\Projects\SynGitHub\SynGitHub\obj\Debug\net5.0\SynGitHub.dll
+C:\Projects\SynGitHub\SynGitHub\obj\Debug\net5.0\refint\SynGitHub.dll
+C:\Projects\SynGitHub\SynGitHub\obj\Debug\net5.0\SynGitHub.pdb
+C:\Projects\SynGitHub\SynGitHub\obj\Debug\net5.0\SynGitHub.genruntimeconfig.cache
+C:\Projects\SynGitHub\SynGitHub\obj\Debug\net5.0\ref\SynGitHub.dll
