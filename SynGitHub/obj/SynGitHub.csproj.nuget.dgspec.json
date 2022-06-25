@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\SynGitHub\\SynGitHub\\SynGitHub.csproj": {}
+    "C:\\Projects\\PartialClassProject\\SynGitHub\\SynGitHub.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\SynGitHub\\SynGitHub\\SynGitHub.csproj": {
+    "C:\\Projects\\PartialClassProject\\SynGitHub\\SynGitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\SynGitHub\\SynGitHub\\SynGitHub.csproj",
+        "projectUniqueName": "C:\\Projects\\PartialClassProject\\SynGitHub\\SynGitHub.csproj",
         "projectName": "SynGitHub",
-        "projectPath": "C:\\Projects\\SynGitHub\\SynGitHub\\SynGitHub.csproj",
+        "projectPath": "C:\\Projects\\PartialClassProject\\SynGitHub\\SynGitHub.csproj",
         "packagesPath": "C:\\Users\\I.A\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\SynGitHub\\SynGitHub\\obj\\",
+        "outputPath": "C:\\Projects\\PartialClassProject\\SynGitHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
